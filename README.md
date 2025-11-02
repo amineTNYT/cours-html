@@ -6,12 +6,12 @@
 
 Ressume pédagogique couvrant les concepts clés du programme destiné aux élèves de 3ème et 4ème année secondaire en section informatique.
 
-Ce document présente les fondamentaux de l'algorithmique et de la programmation selon le curriculum national, incluant :
+Ce document présente les fondamentaux des STI selon le curriculum national, incluant :
 
-- Les structures de données de base
-- Les algorithmes de tri et de recherche
-- Les principes de la programmation structurée
-- Les bases de la conception algorithmique
+-Les systèmes informatiques et réseaux
+-Les technologies numériques et électroniques
+-Les bases de l'architecture des ordinateurs
+-Les principes des systèmes d'exploitation
 
 **Public Cible :** Élèves de 3ème et 4ème année secondaire option informatique
 
